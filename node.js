@@ -1,5 +1,5 @@
 const got = require('got');
-const urls = reuqire('./urls.json');
+const urls = require('./url.json');
 const ks = require('node-key-sender');
 var inGame = false
 
