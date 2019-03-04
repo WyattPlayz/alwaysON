@@ -1,3 +1,4 @@
 {
-  "server": "https://api.minehut.com/servers/GameWide?byName=true"
+  "server": "https://api.minehut.com/server/GameWide?byName=true",
+  "servers": "https://api.minehut.com/servers"
 }
